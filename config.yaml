@@ -12,6 +12,7 @@ arch:
   - i386
    
 options:
-  active_appliances: 100
+  test_add_on:
+    active_appliances: 100
   
   
