@@ -14,4 +14,7 @@ arch:
 options:
   active_appliances: null
   
+schema:
+  active_appliances: str
+  
   
