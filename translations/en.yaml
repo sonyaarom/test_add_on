@@ -1,5 +1,6 @@
 ---
 configuration:
-  name: active_appliances
-  description: A list of active shiftable appliances that are used in your household. An acceptable
+  active_appliances:
+    name: Active Appliances
+    description: A list of active shiftable appliances that are used in your household. An acceptable
       naming convention includes entities' ids in a form `517, 535`.
