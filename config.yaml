@@ -12,6 +12,6 @@ arch:
   - i386
    
 options:
-  active_appliances: []
+  active_appliances: 100
   
   
